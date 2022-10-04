@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/virtualoffice/static/js/main.35093bb8.js",
+    "static/media/calendar.svg": "/virtualoffice/static/media/calendar.36775449ec3f4814741429f6d8d4aaa2.svg",
+    "index.html": "/virtualoffice/index.html",
+    "static/media/clock.svg": "/virtualoffice/static/media/clock.22505a5227826e5e4177660b7ef4f35a.svg",
+    "main.35093bb8.js.map": "/virtualoffice/static/js/main.35093bb8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.35093bb8.js"
+  ]
+}
